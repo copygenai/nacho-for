@@ -9,30 +9,30 @@
   "company": {
     "name": "Rilla",
     "slug": "rilla",
-    "accentColor": "#ff5a1f"
+    "accentColor": "#0066cc"
   },
   "role": "SDR",
   "hero": {
     "label": "Made for Rilla",
-    "headline": "I want to be your first SDR hire in the field.",
-    "subheadline": "I've spent the last year doing cold outreach for a B2B SaaS startup. I know what it takes to build a pipeline from zero. And I think Rilla's AI for field sales reps is one of the most interesting problems in sales tech right now."
+    "headline": "I want to build Rilla's SDR motion from the ground up.",
+    "subheadline": "Sebastian Jimenez's philosophy of finding the right market over chasing features resonates with how I approach sales: listen first, execute second. Rilla is solving a real problem for field sales teams that nobody else is touching, and I want to be part of proving out that GTM playbook in NYC."
   },
   "whyCompany": [
     {
-      "emoji": "\ud83c\udf99\ufe0f",
-      "title": "You're solving a real gap in field sales coaching",
-      "body": "Most sales coaching tools are built for inside sales. Rilla is the first to bring conversation intelligence to reps in the field \u2014 HVAC, solar, home services. That's a huge market barely touched by AI. I want to be part of building it."
+      "emoji": "🎯",
+      "title": "Rilla owns an untapped market in field sales intelligence",
+      "body": "Home services and solar reps are doing deals face-to-face with zero feedback loops. Rilla's AI transcription and playbook matching directly solves that. This isn't a crowded market like general sales coaching. Sebastian doubled down on one vision instead of feature creep, and that focus is why the product actually works."
     },
     {
-      "emoji": "\ud83d\udcc8",
-      "title": "You just raised and you're hiring fast",
-      "body": "I'd rather join at 20 people than 200. The first SDRs at a company like this set the playbook \u2014 and I'm hungry enough to do that work right."
+      "emoji": "📈",
+      "title": "Entry-level hiring moment with real GTM leverage",
+      "body": "Rilla is hiring 2026 graduates specifically to build top-of-funnel motion in NYC. This is a foundational role, which means I'm not just executing playbook. I'm helping define how Rilla acquires its first wave of field sales customers at scale. That's the kind of leverage every early SDR should want."
     },
     {
-      "emoji": "\ud83e\udd1d",
-      "title": "Samuel Holbrook reached out to me personally",
-      "body": "That conversation gave me real insight into how Rilla runs sales. I came away more excited, not less. That's the signal I look for."
+      "emoji": "💪",
+      "title": "My BDR work translates directly to this SDR role",
+      "body": "At Copygen.ai, I sourced and qualified 15-20 paying clients cold. I built LinkedIn sequences, managed HubSpot cadences, and handled objections real-time. Rilla's SDRs do the same thing but for a product with higher stakes (coaching managers, improving sales reps). I've already done the hard part. Now I want to do it for a product I believe in."
     }
   ],
-  "quote": "I'm not looking for a safe entry-level role. I want to be in a room where the outcome isn't guaranteed yet and the work actually matters."
+  "quote": "I want to prove that a 21-year-old who knows how to prospect can help Rilla own the field sales intelligence market before anyone else realizes it's there."
 }

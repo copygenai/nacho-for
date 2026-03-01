@@ -2,7 +2,7 @@
   "candidate": {
     "name": "Ignacio Arsuaga",
     "email": "nacho@arsuaga.net",
-    "phone": "PHONE_PLACEHOLDER",
+    "phone": "+19452472262",
     "linkedin": "https://linkedin.com/in/ignacio-arsuaga-garcia-colavidas",
     "location": "Mesa, AZ (Phoenix area)"
   },
@@ -19,17 +19,17 @@
   },
   "whyCompany": [
     {
-      "emoji": "🎙️",
+      "emoji": "\ud83c\udf99\ufe0f",
       "title": "You're solving a real gap in field sales coaching",
-      "body": "Most sales coaching tools are built for inside sales. Rilla is the first to bring conversation intelligence to reps in the field — HVAC, solar, home services. That's a huge market barely touched by AI. I want to be part of building it."
+      "body": "Most sales coaching tools are built for inside sales. Rilla is the first to bring conversation intelligence to reps in the field \u2014 HVAC, solar, home services. That's a huge market barely touched by AI. I want to be part of building it."
     },
     {
-      "emoji": "📈",
+      "emoji": "\ud83d\udcc8",
       "title": "You just raised and you're hiring fast",
-      "body": "I'd rather join at 20 people than 200. The first SDRs at a company like this set the playbook — and I'm hungry enough to do that work right."
+      "body": "I'd rather join at 20 people than 200. The first SDRs at a company like this set the playbook \u2014 and I'm hungry enough to do that work right."
     },
     {
-      "emoji": "🤝",
+      "emoji": "\ud83e\udd1d",
       "title": "Samuel Holbrook reached out to me personally",
       "body": "That conversation gave me real insight into how Rilla runs sales. I came away more excited, not less. That's the signal I look for."
     }

@@ -1,0 +1,38 @@
+{
+  "candidate": {
+    "name": "Ignacio Arsuaga",
+    "email": "nacho@arsuaga.net",
+    "phone": "PHONE_PLACEHOLDER",
+    "linkedin": "https://linkedin.com/in/ignacio-arsuaga-garcia-colavidas",
+    "location": "Mesa, AZ (Phoenix area)"
+  },
+  "company": {
+    "name": "Rilla",
+    "slug": "rilla",
+    "accentColor": "#ff5a1f"
+  },
+  "role": "SDR",
+  "hero": {
+    "label": "Made for Rilla",
+    "headline": "I want to be your first SDR hire in the field.",
+    "subheadline": "I've spent the last year doing cold outreach for a B2B SaaS startup. I know what it takes to build a pipeline from zero. And I think Rilla's AI for field sales reps is one of the most interesting problems in sales tech right now."
+  },
+  "whyCompany": [
+    {
+      "emoji": "🎙️",
+      "title": "You're solving a real gap in field sales coaching",
+      "body": "Most sales coaching tools are built for inside sales. Rilla is the first to bring conversation intelligence to reps in the field — HVAC, solar, home services. That's a huge market barely touched by AI. I want to be part of building it."
+    },
+    {
+      "emoji": "📈",
+      "title": "You just raised and you're hiring fast",
+      "body": "I'd rather join at 20 people than 200. The first SDRs at a company like this set the playbook — and I'm hungry enough to do that work right."
+    },
+    {
+      "emoji": "🤝",
+      "title": "Samuel Holbrook reached out to me personally",
+      "body": "That conversation gave me real insight into how Rilla runs sales. I came away more excited, not less. That's the signal I look for."
+    }
+  ],
+  "quote": "I'm not looking for a safe entry-level role. I want to be in a room where the outcome isn't guaranteed yet and the work actually matters."
+}

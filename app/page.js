@@ -97,7 +97,7 @@ export default function Page() {
       <div style={{ height: 1, background: '#f0f0f0', margin: '0 40px', marginBottom: 40 }} />
 
       {/* QUOTE */}
-      <div style={{ background: '#111', color: '#fff', borderRadius: 12, padding: 36, margin: '0 auto', maxWidth: 640, marginLeft: 40, marginRight: 40 }}>
+      <div style={{ background: '#111', color: '#fff', borderRadius: 12, padding: 36, maxWidth: 640, margin: '0 auto' }}>
         <p style={{ fontSize: 20, lineHeight: 1.6, fontWeight: 500, letterSpacing: '-0.3px' }}>
           &ldquo;{quote}&rdquo;
         </p>

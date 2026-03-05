@@ -7,32 +7,32 @@
     "location": "Mesa, AZ (Phoenix area)"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Prelim",
+    "slug": "prelim",
+    "accentColor": "#0066cc"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Growth Marketing Associate",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Prelim",
+    "headline": "I want to drive growth for the banking infrastructure that matters.",
+    "subheadline": "Prelim is solving a real problem for financial institutions: making digital account opening frictionless at scale. After closing 15-20 paying clients as a BDR and running B2B digital campaigns at NextAfter, I'm ready to own growth strategy for a product that banks actually need."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "🏦",
+      "title": "Banking digitalization is massive, unsexy, and urgent",
+      "body": "Most banks still run legacy systems. Prelim's no-code platform removes friction from account opening and customer onboarding, which means faster revenue for banks and better experiences for customers. This isn't a nice-to-have; it's infrastructure that makes the financial system more accessible."
     },
     {
       "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "title": "Y Combinator backing and strong founder signal clarity",
+      "body": "Heang Chan built this at Stanford and has assembled a team trusted by major U.S. banks. Prelim is in the growth phase where a great Growth Marketing Associate can directly influence customer acquisition and retention. The role matters here."
     },
     {
       "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "title": "My BDR and B2B digital background maps directly to this",
+      "body": "At Copygen, I learned how to identify and reach paying customers through cold outreach and LinkedIn sequences. At NextAfter, I ran digital campaigns for B2B nonprofits and enterprises. Prelim's customers are banks and credit unions. I understand how to speak to them, build sequences, and think about conversion funnels in that world."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "I'm not chasing growth for growth's sake. I want to build growth strategy for a product that actually solves a problem in an industry that desperately needs modernization."
 }

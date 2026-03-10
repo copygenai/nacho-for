@@ -2,37 +2,39 @@
   "candidate": {
     "name": "Ignacio Arsuaga",
     "email": "nacho@arsuaga.net",
-    "phone": "+19452472262",
-    "linkedin": "https://linkedin.com/in/ignacio-arsuaga-garcia-colavidas",
-    "location": "Mesa, AZ (Phoenix area)"
+    "phone": "+1 945 247 2262",
+    "school": "Benedictine University, Mesa AZ",
+    "gradDate": "May 2026",
+    "linkedin": "https://linkedin.com/in/ignacioarsuagajr",
+    "headshot": "https://cdn.jsdelivr.net/gh/copygenai/nacho-for@main/public/headshot.jpg"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "14.ai",
+    "slug": "14-ai",
+    "accentColor": "#1a1a2e"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Founding GTM",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for 14.ai",
+    "headline": "I want to help 14.ai hit $10M ARR.",
+    "subheadline": "You're building the first AI-native customer service agency for DTC brands, and you just got featured in TechCrunch. I spent a year doing full-cycle outbound at an AI startup, and I know how to find, qualify, and close the brands who need this."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "🎯",
+      "title": "AI-native BPOs are replacing entire support teams",
+      "body": "14.ai isn't selling a chatbot. You're replacing entire BPO contracts with AI agents that reply in under 10 seconds. For DTC brands spending $50K-$500K/year on outsourced support, the ROI pitch writes itself. I want to be the one making that pitch."
     },
     {
-      "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "emoji": "⚡",
+      "title": "3 people, YC W24, backed by Vercel and Slack founders",
+      "body": "This is as early-stage and high-upside as it gets. Founding GTM at a 3-person company means I'm not following a playbook. I'm writing it. The 1% equity tells me you're serious about this being a career-defining hire, not just another SDR seat."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "🛒",
+      "title": "My outbound experience maps perfectly to DTC sales",
+      "body": "At Copygen.ai, I prospected, qualified, and helped close 15-20 B2B SaaS deals from scratch. At NextAfter, I learned how digital marketing and fundraising strategies drive revenue at a consultancy. Selling AI customer service to Shopify and TikTok Shop brands? That's the intersection of everything I've done."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "Three people, one massive market, and a product TechCrunch just wrote about. I don't need a playbook. I need a phone and a target list."
 }

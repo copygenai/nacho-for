@@ -1,38 +1,64 @@
 {
   "candidate": {
     "name": "Ignacio Arsuaga",
+    "nickname": "Nacho",
     "email": "nacho@arsuaga.net",
-    "phone": "+19452472262",
-    "linkedin": "https://linkedin.com/in/ignacio-arsuaga-garcia-colavidas",
-    "location": "Mesa, AZ (Phoenix area)"
+    "phone": "+1 945 247 2262",
+    "linkedin": "https://www.linkedin.com/in/ignacioarsuagajr",
+    "location": "Mesa, AZ",
+    "university": "Benedictine University",
+    "graduation": "May 2026",
+    "workAuth": "OPT (June 2026)",
+    "experience": [
+      {
+        "company": "Copygen.ai",
+        "role": "Business Development Representative",
+        "period": "Mar 2024 – May 2025",
+        "highlights": [
+          "Built pipeline from zero",
+          "15-20 paying clients acquired",
+          "HubSpot, LinkedIn sequences"
+        ]
+      },
+      {
+        "company": "NextAfter",
+        "role": "Digital Marketing Intern",
+        "period": "May – Aug 2025",
+        "highlights": [
+          "B2B digital fundraising consultancy",
+          "Plano, TX",
+          "Prospect qualification and outreach"
+        ]
+      }
+    ]
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Terrakotta",
+    "slug": "terrakotta",
+    "accentColor": "#16a34a"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Founding Sales Development Representative",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Terrakotta",
+    "headline": "I’d love to help Terrakotta build the outbound engine behind a category-defining sales product.",
+    "subheadline": "Terrakotta is selling to a phone-first market where speed, relevance, and persistence matter. That is exactly the kind of environment where I can contribute early, because my background is in outbound pipeline generation, not just theory."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "📞",
+      "title": "The motion matches how I work",
+      "body": "Terrakotta is building for phone-first sellers and outbound deal flow. I already know how to do prospecting, cold outreach, qualification, and follow-up from my BDR work at Copygen.ai."
     },
     {
-      "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "emoji": "🏗️",
+      "title": "I like early-stage, messy GTM",
+      "body": "A founding SDR role means helping shape the playbook, not just inheriting one. That is a big part of the appeal for me. I want the reps, the feedback loops, and the chance to improve the process as I go."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "🧠",
+      "title": "I can speak both operator and automation",
+      "body": "On the side, I’ve deployed OpenClaw AI agents, including an automated BDR workflow. That gives me a practical feel for where automation helps, where human judgment still wins, and how to make both work together in GTM."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "Terrakotta feels like the kind of team where hard work compounds fast, and that’s exactly the environment I want."
 }

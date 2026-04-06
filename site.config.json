@@ -1,38 +1,64 @@
 {
   "candidate": {
     "name": "Ignacio Arsuaga",
+    "nickname": "Nacho",
     "email": "nacho@arsuaga.net",
-    "phone": "+19452472262",
-    "linkedin": "https://linkedin.com/in/ignacio-arsuaga-garcia-colavidas",
-    "location": "Mesa, AZ (Phoenix area)"
+    "phone": "+1 945 247 2262",
+    "linkedin": "https://www.linkedin.com/in/ignacioarsuagajr",
+    "location": "Mesa, AZ",
+    "university": "Benedictine University",
+    "graduation": "May 2026",
+    "workAuth": "OPT (June 2026)",
+    "experience": [
+      {
+        "company": "Copygen.ai",
+        "role": "Business Development Representative",
+        "period": "Mar 2024 – May 2025",
+        "highlights": [
+          "Built pipeline from zero",
+          "15-20 paying clients acquired",
+          "HubSpot, LinkedIn sequences"
+        ]
+      },
+      {
+        "company": "NextAfter",
+        "role": "Digital Marketing Intern",
+        "period": "May – Aug 2025",
+        "highlights": [
+          "B2B digital fundraising consultancy",
+          "Plano, TX",
+          "Prospect qualification and outreach"
+        ]
+      }
+    ]
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Alex",
+    "slug": "alex",
+    "accentColor": "#2563eb"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Sales Development Representative (SDR)",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Alex",
+    "headline": "I’d help Alex turn strong product pull into a tighter top-of-funnel machine.",
+    "subheadline": "I’ve already done the grindy part before, outbound, prospecting, qualification, sequencing, and booking meetings. Alex is the kind of AI recruiting product where sharp outreach actually matters because the value prop is concrete and urgent."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "⚡",
+      "title": "The product is easy to care about",
+      "body": "Alex is not vague AI hype. It helps companies source, screen, and schedule faster, which means every SDR conversation can stay tied to a clear outcome: better hiring signals in less time."
     },
     {
-      "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "emoji": "🎯",
+      "title": "I fit the stage and the role",
+      "body": "You want someone who can do the unglamorous pipeline work well. I spent a year as a BDR at Copygen.ai and learned how to prospect consistently, handle rejection, and keep moving volume without losing personalization."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "🤖",
+      "title": "I understand the buyer shift happening now",
+      "body": "Because I’ve been tinkering with OpenClaw agents and GTM automation, I get why AI products win when they save teams real time immediately. That makes me better at telling the story in a way hiring leaders actually respond to."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "If Alex is building the future of hiring, I’d love to be one of the people creating the first conversations that bring customers in."
 }

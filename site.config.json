@@ -7,32 +7,32 @@
     "location": "Mesa, AZ (Phoenix area)"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Respan",
+    "slug": "respan",
+    "accentColor": "#1a1a2e"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Founding Technical GTM",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Respan",
+    "headline": "I want to be the first GTM hire who helps Respan win the AI agent layer.",
+    "subheadline": "Respan is solving a genuinely hard problem: observability breaks when agents start making compounding decisions, and the teams building those agents need a platform that thinks ahead of them. I come from cold outreach and B2B pipeline work, and I want to bring that same scrappiness to helping Andy and Raymond get Respan in front of every engineering team shipping agents. The rebrand from Keywords AI to Respan signals a company sharpening its thesis, and I want to be part of what comes next."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "🤖",
+      "title": "Respan is building the reliability layer the entire agent ecosystem needs",
+      "body": "Logs and dashboards were built for single-turn LLMs, not for agents that chain decisions across time. Respan's bet that observability, evals, and the gateway need to live together in one self-driving platform is a strong one, especially as 60+ YC companies are already trusting it with production workloads. That kind of early traction in a technically sophisticated customer base tells me the product is real and the category is forming fast."
     },
     {
       "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "title": "First GTM hire at a YC company right as the agent wave breaks open",
+      "body": "Andy came from hardware at Apple and pivoted to building infrastructure for AI teams, which means the founding DNA is technical and product-led. Hiring a first GTM person now, with 60+ YC companies already using the platform, means the motion is there to be systematized, not invented from scratch. Getting in at this exact moment is the kind of opportunity that rarely comes twice."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "📈",
+      "title": "My BDR and B2B marketing reps map directly onto what this role needs",
+      "body": "At Copygen.ai I built cold outreach sequences in HubSpot and LinkedIn that helped close 15 to 20 paying clients from zero, so I know what it takes to move technically skeptical buyers through a pipeline. At NextAfter I got exposure to how B2B digital marketing actually converts attention into pipeline for a consultancy serving sophisticated clients. Selling a technical infrastructure product to AI engineering teams is a different conversation than most, and I have been building toward exactly that."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "Respan is what happens when the people building the AI agent layer finally get serious about not flying blind. I want to be the person who makes sure every team doing serious agent work knows Respan exists before anyone else does."
 }

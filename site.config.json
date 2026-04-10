@@ -7,32 +7,32 @@
     "location": "Mesa, AZ (Phoenix area)"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Tractian",
+    "slug": "tractian",
+    "accentColor": "#FFA500"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Sales Development Representative",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Tractian",
+    "headline": "I want to bring Physical AI to the shop floor.",
+    "subheadline": "Tractian is solving a problem that most software companies ignore entirely: the machines that actually make things. Igor building this after watching his father struggle as a maintenance technician is the kind of founder conviction that makes a product real. I want to be the person opening those doors for manufacturers who still think downtime is just the cost of doing business."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "🏭",
+      "title": "Tractian owns hardware and software, which means the pitch is airtight",
+      "body": "Most IIoT vendors sell sensors or software. Tractian builds both, which means no finger-pointing when something breaks and a much stronger value story to tell a maintenance manager. That kind of end-to-end ownership makes cold outreach cleaner because the product actually delivers what you promise."
     },
     {
-      "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "emoji": "📈",
+      "title": "158% NRR means every new logo compounds, not churns",
+      "body": "Tractian's net revenue retention rivals Snowflake and Twilio, which tells me customers are expanding after they buy. For an SDR, that means the accounts I open are not one-and-done wins but the start of something that grows. Joining now, while the sales team is still scaling, is exactly the moment where early reps build careers."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "🎯",
+      "title": "My BDR experience at Copygen.ai maps directly to this motion",
+      "body": "At Copygen.ai I ran cold outreach from scratch, built LinkedIn sequences, managed HubSpot pipelines, and helped land 15 to 20 paying clients in a market that had no idea we existed yet. That is the same muscle Tractian needs: finding manufacturing decision-makers who have never heard of predictive maintenance software and turning skepticism into a booked demo."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "Igor's father was the maintenance tech. I want to be the person who makes sure the next generation of maintenance techs has Tractian in their corner. That story is worth making 100 calls a day for."
 }

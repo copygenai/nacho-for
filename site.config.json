@@ -7,32 +7,32 @@
     "location": "Mesa, AZ (Phoenix area)"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Ergo",
+    "slug": "ergo",
+    "accentColor": "#1A1A2E"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Operations",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Ergo",
+    "headline": "I want to be the person who keeps Ergo running.",
+    "subheadline": "Ergo is solving a real problem I lived firsthand as a BDR: reps waste hours on CRM updates instead of selling. I want to help build the internal systems that let Ergo scale as fast as its product does. Being the first dedicated operations hire at a YC company reporting directly to Yash and Ishan is exactly the kind of zero-to-one challenge I am looking for."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "🧠",
+      "title": "Ergo's product solves the exact pain BDRs feel every day",
+      "body": "I spent over a year as a BDR at Copygen.ai manually logging calls, updating HubSpot, and chasing follow-ups. Ergo automates all of that by pulling structured data straight from conversations. I understand the problem from the inside, which means I can communicate it, test it, and help customers get value from it faster."
     },
     {
       "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "title": "First ops hire at a YC W25 company with zero employees yet",
+      "body": "Ergo was founded in 2025 and is still in its earliest days, which means the first operations person will have a direct hand in shaping how the company runs. That is not a support role, it is a foundational one. The chance to build processes from scratch alongside founders who previously built Breezy Medical and won Stanford's Hackathon does not come around often."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "📋",
+      "title": "BDR outreach plus digital marketing research connects directly here",
+      "body": "At Copygen.ai I ran cold outreach sequences, managed HubSpot pipelines, and helped close 15 to 20 paying clients, so I know what revenue operations look like from the ground floor. At NextAfter I studied how B2B organizations convert attention into action through data-driven campaigns. Both experiences trained me to think about process, measurement, and what actually moves deals forward."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "I have been on the other side of the problem Ergo is solving, and I know exactly how much time and revenue gets lost when your tools can not keep up with your team. I want to be the person who makes sure Ergo's own house is running tight while Yash and Ishan focus on building the product."
 }

@@ -7,32 +7,32 @@
     "location": "Mesa, AZ (Phoenix area)"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Mount",
+    "slug": "mount",
+    "accentColor": "#1a1a2e"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "GTM",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Mount",
+    "headline": "I want to help Mount own the AI agent insurance category.",
+    "subheadline": "Mount is solving a problem that didn't exist three years ago: who is liable when an AI agent makes a costly mistake? That question is only getting louder, and Fabian and John are building the infrastructure to answer it. I want to be the person who gets that story in front of the right people before anyone else does."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "🤖",
+      "title": "The agent economy needs an insurer and Mount is the only one built for it",
+      "body": "Existing insurers lack the data, the models, and the speed to underwrite deployed AI systems. Mount is not just selling a product, it is defining an entirely new coverage category at exactly the moment enterprises are deploying autonomous agents at scale. That timing is rare and the wedge is real."
     },
     {
       "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "title": "Two founders, one engineering hire, and a GTM seat wide open",
+      "body": "Mount is a YC 2026 company with two employees, which means the first GTM person shapes the motion from scratch: messaging, ICP, outbound, channel. There is no playbook to inherit and no bureaucracy to navigate. That is the kind of blank-canvas moment I am actively looking for at this point in my career."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "📞",
+      "title": "I have done exactly this kind of zero-to-pipeline GTM work before",
+      "body": "At Copygen.ai I ran cold outreach from nothing, built LinkedIn sequences in HubSpot, and helped close 15 to 20 paying clients as a BDR. At NextAfter I sharpened that with B2B digital strategy in a consultancy that lives and dies by measurable conversion. Mount needs someone who can generate pipeline on day one and I have done it."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "Insurance for AI agents sounds niche until you realize every company deploying an autonomous system is one hallucination away from a lawsuit. I want to be the person who makes sure the right buyers understand that before they find out the hard way."
 }

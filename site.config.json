@@ -7,32 +7,32 @@
     "location": "Mesa, AZ (Phoenix area)"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Senso",
+    "slug": "senso",
+    "accentColor": "#5B4EFF"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Customer Success Specialist",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Senso",
+    "headline": "I want to help Senso make enterprise knowledge actually usable for AI.",
+    "subheadline": "Senso is solving one of the most foundational problems in the agentic era: enterprises have enormous knowledge locked in messy systems, and AI agents can't reliably act on it. That context layer infrastructure is exactly where I want to build my career. Coming from a background in B2B sales development and digital marketing, I understand what it takes to help customers see value fast and stick around."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "🧠",
+      "title": "Senso is building the ground truth layer AI agents actually need",
+      "body": "Most AI deployments fail not because the model is bad, but because the context fed into it is fragmented and unverified. Senso's approach of creating a machine-readable, citation-ready System of Record for enterprise knowledge is the kind of infrastructure play that wins long-term. That is a genuinely hard problem worth solving, and I want to be close to customers who are navigating it."
     },
     {
       "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "title": "Eight people, YC-backed, three open sales roles right now",
+      "body": "Senso is at the stage where the first customer success hires shape the entire post-sale culture and playbook. Founded in 2024, backed by Y Combinator, and still a team of eight, this is the moment where showing up and owning the customer relationship actually matters. I want to be the person who helps define what great looks like here."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "🎯",
+      "title": "My BDR and NextAfter work maps directly onto this customer journey",
+      "body": "At Copygen.ai I ran cold outreach in HubSpot and LinkedIn sequences that helped land 15 to 20 paying clients, so I know how hard it is to get a customer through the door. At NextAfter I worked inside a B2B consultancy where client trust and measurable outcomes were everything. Customer success at an early-stage AI infrastructure company is where both of those experiences converge."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "The agentic web needs a ground truth layer, and Senso is building it. I want to be the person who makes sure every enterprise customer actually gets there."
 }

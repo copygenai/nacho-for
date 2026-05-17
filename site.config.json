@@ -7,32 +7,32 @@
     "location": "Mesa, AZ (Phoenix area)"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Exa",
+    "slug": "exa",
+    "accentColor": "#1a1a2e"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Growth",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Exa",
+    "headline": "I want to help Exa win the AI search market.",
+    "subheadline": "Exa is doing something genuinely new: rebuilding search from scratch for a world where AIs are the primary consumers of information. I came from selling AI tools at Copygen and running B2B digital campaigns at NextAfter, and I want to bring that pipeline-building and growth instinct to the team that is redefining how LLMs find the internet."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "🔍",
+      "title": "Search rebuilt for AIs is a once-in-a-decade infrastructure bet",
+      "body": "Most search engines were designed for humans clicking links. Exa is building for a world where the query comes from a model, not a person, and that distinction unlocks an entirely different product surface. The fact that Exa indexes and serves at the scale of hundreds of billions of pages purpose-built for LLM consumption tells me this is serious infrastructure, not a wrapper."
     },
     {
       "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "title": "Nvidia backing plus YC plus Singapore expansion means real velocity right now",
+      "body": "Exa is not waiting around: NVIDIA backing, a YC S21 pedigree, and an international expansion to Singapore all signal a company accelerating into a market window that will not stay open forever. Hiring for growth at this exact moment means the person in this seat will help shape how developers and AI companies discover and adopt the product. That is the kind of leverage I want."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "⚽",
+      "title": "Cold outreach and B2B campaigns trained me to open doors fast",
+      "body": "At Copygen I built outbound sequences from zero and helped land 15 to 20 paying clients using HubSpot and LinkedIn, so I know what it takes to move a developer-focused product from cold prospect to signed contract. At NextAfter I then layered on B2B digital marketing strategy, learning how to drive qualified pipeline through content and paid channels. Exa's growth challenge sits exactly at that intersection."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "Will built Exa because he believed search could be smarter than it was. I want to be the person who makes sure every developer building an AI product knows Exa exists and chooses it first."
 }

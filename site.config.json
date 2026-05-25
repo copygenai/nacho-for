@@ -7,32 +7,32 @@
     "location": "Mesa, AZ (Phoenix area)"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Revise Robotics",
+    "slug": "revise-robotics",
+    "accentColor": "#2D7D46"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Business Development Intern – Summer/Fall 2026",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Revise Robotics",
+    "headline": "I want to help Revise put more refurbished laptops in more hands.",
+    "subheadline": "Revise Robotics is attacking a $1T market while keeping electronics out of shredders and into the hands of people who actually need them. Antonio's story about his cousin refurbishing laptops in Mexico hit close to home for me as a Spanish speaker who has seen firsthand how much a working device can change someone's trajectory. I want to be the person helping Revise find the supply to make that mission scale."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "♻️",
+      "title": "Robotic refurbishment solves the supply bottleneck nobody else is automating",
+      "body": "Most refurbishers are still doing this manually, which caps how many devices they can process. Revise is using industrial automation and AI to test, repair, and verify at a speed no human team can match. That is not an incremental improvement, that is a category-defining wedge into a market that has barely started to be touched."
     },
     {
       "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "title": "Three employees, two open roles, and YC behind it",
+      "body": "Revise was founded in 2024, has three people on the team, and is already hiring for both sales and engineering. That means the business development work I would do this summer would not be one small piece of a large org chart. It would be foundational, with real weight, and I would be building alongside Rupesh and Antonio from nearly the beginning."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "🎯",
+      "title": "Cold outreach and pipeline building are exactly what I have been doing",
+      "body": "At Copygen.ai I ran cold outreach campaigns through HubSpot and LinkedIn sequences that helped acquire 15 to 20 paying clients from scratch. At NextAfter I sharpened that in a B2B environment where messaging precision actually moved numbers. Finding and closing laptop procurement partners for Revise is the same muscle, just pointed at a problem I find genuinely exciting."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "Antonio's cousin was refurbishing laptops by hand in Mexico long before any robot could help him. I grew up around that same resourcefulness, and I want to spend my summer making sure Revise never runs out of devices to fix."
 }

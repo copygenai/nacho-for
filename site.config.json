@@ -7,32 +7,32 @@
     "location": "Mesa, AZ (Phoenix area)"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Certus AI",
+    "slug": "certus-ai",
+    "accentColor": "#1a73e8"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Business Development Representative (BDR)",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Certus AI",
+    "headline": "I want to bring Voice AI to every restaurant operator who needs it.",
+    "subheadline": "Certus AI is solving a real, unglamorous problem that costs restaurants money every single day: missed and mishandled phone calls. I want to be the person who gets operators to finally pick up the phone on that solution. Having already closed B2B clients in an AI-adjacent space and learned how to build conviction with skeptical buyers, I think this is exactly the right role at exactly the right moment for me."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "🍕",
+      "title": "Restaurants are a massive, underserved market for AI automation",
+      "body": "Independent and chain restaurants take hundreds of calls a day for reservations, orders, and questions, yet almost none of them have touched AI voice tooling. That gap between the size of the problem and the current adoption rate is where great BDR opportunities live. Certus AI is positioned to own that gap before anyone else does."
     },
     {
       "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "title": "Early BDR hire at a seed-stage AI company is a career-defining seat",
+      "body": "Joining now means helping shape the outreach playbook, not just executing someone else's. The patterns Ignacio builds in these first months will define how Certus AI sells for years. That kind of ownership is exactly what he is looking for in a first full-time role."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "📞",
+      "title": "His BDR track record translates directly to this motion",
+      "body": "At Copygen.ai, Ignacio ran cold outreach and LinkedIn sequences through HubSpot and helped land 15 to 20 paying clients in an AI SaaS context, which is the same sell-a-new-technology-to-skeptical-operators challenge Certus AI faces. His time at NextAfter sharpened his instinct for message testing and conversion, skills that matter just as much when booking restaurant demos as when optimizing fundraising campaigns."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "Restaurants are one of the last business categories still losing real money to something as fixable as a missed phone call. I want to be the person knocking on those doors and showing operators there is a better way."
 }

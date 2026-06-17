@@ -7,32 +7,32 @@
     "location": "Mesa, AZ (Phoenix area)"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Unbound",
+    "slug": "unbound",
+    "accentColor": "#1A1A2E"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Founding growth engineer",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Unbound",
+    "headline": "I want to help Unbound own enterprise AI security from the ground up.",
+    "subheadline": "The problem Unbound is solving is urgent and real: enterprises are already using AI tools whether security teams approve or not, and sensitive data is leaking as a result. I want to be the person who builds the pipeline that gets Unbound in front of the CISOs and IT leaders who need this product before their next breach. Coming from a BDR role at an AI company and a B2B growth internship, I know what it takes to turn a compelling technical story into qualified revenue."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "🔒",
+      "title": "Enterprise AI governance is the defining security problem of this decade",
+      "body": "Shadow AI usage inside enterprises is accelerating faster than any compliance or security framework can keep up with. Unbound sits at exactly the right intersection of timing and necessity, offering a solution that lets companies say yes to AI productivity without gambling on data exposure. That is a genuinely hard problem to solve and an even harder one to sell, which is what makes the growth challenge so interesting."
     },
     {
       "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "title": "Founding team hire means the playbook is still being written",
+      "body": "Joining as a founding growth engineer means there are no inherited scripts to follow and no legacy processes to work around. Every outreach sequence, every ICP refinement, and every channel experiment will actually matter and will leave a mark on how Unbound grows. For someone early in their career, there is no better environment to learn fast and build something that lasts."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "📬",
+      "title": "I have done exactly this kind of zero-to-one B2B pipeline work before",
+      "body": "At Copygen.ai I built cold outreach from scratch using HubSpot and LinkedIn sequences and helped bring in 15 to 20 paying clients as a 19-year-old. At NextAfter I worked inside a B2B consultancy learning how digital growth strategy gets packaged and sold to sophisticated buyers. Unbound needs someone who can identify the right enterprise contacts, build sequences that cut through the noise, and iterate quickly on what converts."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "Most people my age are applying to rotational programs. I want to be the person who figures out how Unbound cracks the enterprise market before anyone else does."
 }

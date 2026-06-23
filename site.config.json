@@ -7,32 +7,32 @@
     "location": "Mesa, AZ (Phoenix area)"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Lucent",
+    "slug": "lucent",
+    "accentColor": "#1A73E8"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Founding GTM",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Lucent",
+    "headline": "I want to be the first GTM hire who helps Lucent win.",
+    "subheadline": "Lucent is solving a real pain point I saw firsthand in SaaS sales: teams flying blind on why users churn or get stuck. The idea of turning raw session data into actionable product and UX signals is genuinely exciting to me, and I want to be the person who takes that story to market from day one."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "🔍",
+      "title": "Lucent sits at the intersection of product intelligence and revenue",
+      "body": "Most session replay tools show you what happened. Lucent is building something that tells SaaS teams what it means, which is a much harder and more valuable problem to solve. That distinction is a real wedge into product, engineering, and CS budgets simultaneously, and that kind of multi-stakeholder sale is where I thrive."
     },
     {
       "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "title": "Founding GTM means the playbook is still blank",
+      "body": "Lucent is at the stage where the first GTM hire shapes how the company goes to market for years. That is not a role for someone who wants to inherit a process. It is a role for someone who wants to build one, and that is exactly the kind of challenge I am looking for at 21."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "📬",
+      "title": "I have already done this for a technical SaaS product",
+      "body": "At Copygen.ai I ran cold outreach and LinkedIn sequences that helped the company acquire 15 to 20 paying clients from scratch, working HubSpot and building messaging for a product most prospects had never heard of. At NextAfter I learned how B2B buyers respond to testing-driven content and data storytelling. Lucent needs both of those skill sets on day one."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "I have spent the last year learning how to make technical SaaS products click for buyers who don't know they need them yet. Lucent is exactly the kind of company I want to do that for, and I want to do it before anyone else gets the chance."
 }

@@ -7,32 +7,32 @@
     "location": "Mesa, AZ (Phoenix area)"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Confident AI",
+    "slug": "confident-ai",
+    "accentColor": "#7C3AED"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Founding GTM",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Confident AI",
+    "headline": "I want to help Confident AI own the LLM eval category.",
+    "subheadline": "DeepEval has become the go-to open-source framework for AI teams who actually care about what their models are doing in production. Confident AI is now building the commercial layer around that trust, and I want to be the person who gets it in front of every engineering and product team shipping LLM applications. This is the kind of zero-to-one GTM moment I have been preparing for."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "🧠",
+      "title": "DeepEval's OSS traction creates a rare warm GTM surface",
+      "body": "Most early-stage B2B startups have to fight for awareness from scratch. Confident AI already has developer mindshare through DeepEval, which means outbound can be warmer, referral loops are real, and the ICP is already self-selecting. That is a structural GTM advantage that a founding sales hire can compound immediately."
     },
     {
       "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "title": "The LLM observability market is being defined right now",
+      "body": "AI teams are moving from prototype to production and discovering they have no idea if their models are behaving correctly. Confident AI is positioned to own the evaluation and observability layer before the category hardens around a winner. Joining as a founding GTM hire at this exact moment means helping write the playbook, not inheriting it."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "📞",
+      "title": "I have already done this kind of selling at an earlier stage",
+      "body": "At Copygen.ai I ran cold outreach from scratch using HubSpot and LinkedIn sequences and helped close 15 to 20 paying clients before the company had a repeatable motion. At NextAfter I learned how B2B buyers in a niche technical space respond to education-led messaging. Selling an LLM eval platform to AI engineers is exactly the kind of consultative, technical outbound I have been training for."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "I want to be the person who puts Confident AI on the radar of every team shipping LLMs before they realize they need it. The best time to own a category is before everyone agrees it exists."
 }

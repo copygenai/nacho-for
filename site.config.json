@@ -7,32 +7,32 @@
     "location": "Mesa, AZ (Phoenix area)"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Sales",
+    "slug": "sales",
+    "accentColor": "#0066cc"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Sales Development Representative",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Sales",
+    "headline": "I want to be your first great SDR hire.",
+    "subheadline": "Early-stage sales is where I thrive: I helped an AI startup land 15 to 20 paying clients from cold outreach alone, and I want to bring that same scrappiness to your pipeline. There is something about being in the room where the go-to-market motion gets built from scratch that genuinely excites me, and that is exactly where this role sits."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
-    },
-    {
       "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "title": "Early-stage means every rep shapes the entire sales playbook",
+      "body": "At a startup this early, the SDR is not executing a handed-down script. They are discovering what messaging lands, which channels convert, and who the real buyer is. That kind of ownership is rare and it is exactly the environment where I do my best work."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "⏱️",
+      "title": "The timing to join a founding sales team is right now",
+      "body": "The best time to join an early startup sales team is before the process is frozen and the playbook is locked. Getting in at this stage means my learning curve and the company's growth curve move together. That alignment is something I am actively looking for as I finish my degree in May 2026."
+    },
+    {
+      "emoji": "📞",
+      "title": "I have already done this exact job at an AI startup",
+      "body": "At Copygen.ai I built cold outreach sequences from scratch using HubSpot and LinkedIn, and converted those conversations into 15 to 20 paying clients with no prior playbook to follow. At NextAfter I added B2B digital marketing strategy to that foundation, so I understand both how to start the conversation and how the broader revenue funnel works."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "I am not looking for a structured program or a big enablement team. I want a founder who will hand me a list, a problem, and the autonomy to go figure it out. That is the version of this job I am genuinely excited to show up for."
 }

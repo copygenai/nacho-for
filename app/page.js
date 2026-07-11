@@ -76,7 +76,7 @@ export default function Page() {
             { label: 'BDR · Copygen.ai', value: '1 year cold outreach', sub: '15–20 paying clients sourced from scratch. HubSpot, cold email, LinkedIn sequences.' },
             { label: 'Internship · NextAfter', value: 'Digital fundraising research', sub: 'B2B consultancy in Plano, TX. Learned to connect data to decisions fast.' },
             { label: 'Athletics', value: 'NCAA D2 Soccer', sub: 'Benedictine University Mesa. Discipline, accountability, competing every week.' },
-            { label: 'Work authorization', value: 'OPT · June 1, 2026', sub: '12 months, no cost to employer. Spanish national, based in Arizona.' },
+            { label: 'Languages', value: 'English and Spanish', sub: 'Bilingual communication for U.S. and international teams.' },
           ].map((card, i) => (
             <div key={i} style={{ border: '1px solid #ebebeb', borderRadius: 12, padding: 24 }}>
               <div style={{ fontSize: 12, color: '#999', fontWeight: 600, textTransform: 'uppercase', letterSpacing: 1, marginBottom: 8 }}>{card.label}</div>

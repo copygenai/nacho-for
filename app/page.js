@@ -73,7 +73,7 @@ export default function Page() {
         </div>
         <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
           {[
-            { label: 'Status', value: 'Work authorization: EAD application in process — no sponsorship required', sub: '' },
+            { label: 'Work authorization', value: 'OPT EAD pending under USCIS premium processing. No employer sponsorship required. Target start availability: late August to early September 2026, subject to USCIS approval and EAD issuance.', sub: '' },
             { label: 'BDR · Copygen.ai', value: '1 year cold outreach', sub: `${candidate.copygenPayingClients} paying clients sourced from scratch. HubSpot, cold email, LinkedIn sequences.` },
             { label: 'Internship · NextAfter', value: 'Digital fundraising research', sub: 'B2B consultancy in Plano, TX. Learned to connect data to decisions fast.' },
             { label: 'Athletics', value: 'NCAA D2 Soccer', sub: 'Benedictine University Mesa. Discipline, accountability, competing every week.' },

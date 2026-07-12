@@ -7,32 +7,32 @@
     "location": "Mesa, AZ (Phoenix area)"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Vooma",
+    "slug": "vooma-ops",
+    "accentColor": "#0066cc"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Operations Associate - Deployments",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Vooma",
+    "headline": "I'll help Vooma make customer deployments smoother and faster.",
+    "subheadline": "My background is a mix of outbound execution, client facing work, and operating in fast moving teams. Vooma's deployment role sits right at the intersection of customer success, operations, and problem solving, which is where I can add value quickly."
   },
   "whyCompany": [
     {
+      "emoji": "🧩",
+      "title": "I like messy operational work",
+      "body": "At early stage companies the real work is often unglamorous. I am comfortable learning workflows fast, staying organized, and helping customers get to value without drama."
+    },
+    {
       "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "title": "Customer facing without losing the details",
+      "body": "The mix of communication, follow through, and process management is a strong fit. I can handle people well while still keeping the operational side tight."
     },
     {
-      "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
-    },
-    {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "🚚",
+      "title": "The logistics problem is real",
+      "body": "Vooma is not selling hype. It is automating quoting and order entry for logistics teams, which are painful manual workflows with obvious ROI when fixed."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "I would be excited to help Vooma turn complex deployments into a repeatable, customer friendly process."
 }

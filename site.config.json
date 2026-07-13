@@ -1,38 +1,39 @@
 {
   "candidate": {
     "name": "Ignacio Arsuaga",
-    "email": "nacho@arsuaga.net",
-    "phone": "+19452472262",
-    "linkedin": "https://linkedin.com/in/ignacio-arsuaga-garcia-colavidas",
-    "location": "Mesa, AZ (Phoenix area)"
+    "email": "ignacioarsuaga2022@gmail.com",
+    "phone": "9452472262",
+    "linkedin": "https://www.linkedin.com/in/ignacio-arsuaga-garcia-colavidas/",
+    "startAvailability": "Target start availability: late August to early September 2026, subject to USCIS approval and EAD issuance",
+    "copygenPayingClients": "10–12"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Flowcode",
+    "slug": "flowcode",
+    "accentColor": "#0066cc"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Growth Customer Success Associate",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Flowcode",
+    "headline": "Eager to drive growth at Flowcode alongside diverse teams.",
+    "subheadline": "Excited by Flowcode's innovative approach in QR technology. Ready to deliver unprecedented customer success through strategic management and proactive outreach."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
-    },
-    {
       "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "title": "Flowcode's adaptive QR technology",
+      "body": "Flowcode’s QR solutions dynamically connect brands to customers. Thrilled to enable real-time interactivity through transformative tech."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "🌟",
+      "title": "Growth amidst tech revolution",
+      "body": "Flowcode is perfectly poised for expansion in today’s digital-first world. Joining during this growth phase feels like an opportunity to impact and innovate."
+    },
+    {
+      "emoji": "🔗",
+      "title": "Aligning with my BDR expertise",
+      "body": "At Copygen.ai, I mastered robust client systems in HubSpot and outreach strategy. This complements Flowcode’s focus on lifecycle management and customer insight."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "I am passionate about leveraging customer insights and strategic workflows at Flowcode to prevent churn and drive success."
 }

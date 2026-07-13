@@ -1,38 +1,39 @@
 {
   "candidate": {
     "name": "Ignacio Arsuaga",
-    "email": "nacho@arsuaga.net",
-    "phone": "+19452472262",
-    "linkedin": "https://linkedin.com/in/ignacio-arsuaga-garcia-colavidas",
-    "location": "Mesa, AZ (Phoenix area)"
+    "email": "ignacioarsuaga2022@gmail.com",
+    "phone": "9452472262",
+    "linkedin": "https://www.linkedin.com/in/ignacio-arsuaga-garcia-colavidas/",
+    "startAvailability": "Target start availability: late August to early September 2026, subject to USCIS approval and EAD issuance",
+    "copygenPayingClients": "10–12"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "AlphaSense",
+    "slug": "alphasense",
+    "accentColor": "#0066cc"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Sales Development Representative",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for AlphaSense",
+    "headline": "I want to bring pipeline energy to AlphaSense's SDR frontline.",
+    "subheadline": "AlphaSense is turning market intelligence into a must-have layer for Fortune 1000 decision-makers and investment professionals, and that product sells itself to the right messenger. I have spent the last year doing exactly this work at an AI startup and a B2B consultancy, and I want to bring that rep experience to a company operating at this scale. The SDR role here is not a placeholder job for me, it is the exact next step I have been building toward."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "🧠",
+      "title": "AlphaSense sits where AI meets high-stakes financial decision-making",
+      "body": "AlphaSense aggregates earnings calls, filings, broker research, and news into a single AI-powered search layer used by analysts and executives who cannot afford to miss signals. That is not a commodity product and it is not a hard story to believe in when you are cold calling. Selling something this substantive to sophisticated buyers is exactly the kind of SDR environment where I want to develop."
     },
     {
-      "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "emoji": "📈",
+      "title": "Tens of thousands of uncovered opportunities and a team that knows it",
+      "body": "The job description does not pretend the pipeline is already built, it literally says tens of thousands of opportunities are waiting to be uncovered and trusts the SDR team to find them. That kind of honesty about scope tells me leadership is building something real and wants reps who treat prospecting as a craft. I thrive in that kind of environment because I have lived inside a startup where the pipeline was mine to create."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "⚽",
+      "title": "Cold outreach volume plus digital sequencing is exactly my background",
+      "body": "At Copygen.ai I ran cold outreach from scratch using HubSpot and LinkedIn sequences, helping bring in 10 to 12 paying clients in just over a year. At NextAfter I sharpened my understanding of what makes B2B messaging convert across digital channels for sophisticated buyers. At AlphaSense those two things come together: multi-channel outreach to executives and investment professionals who require both relevance and precision in every touch."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "I have already done the scrappy version of this job at an AI startup with no brand name behind me. I want to bring that same hunger to a product and a market where the ceiling is actually high enough to match my ambition."
 }

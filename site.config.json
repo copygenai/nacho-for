@@ -1,38 +1,39 @@
 {
   "candidate": {
     "name": "Ignacio Arsuaga",
-    "email": "nacho@arsuaga.net",
-    "phone": "+19452472262",
-    "linkedin": "https://linkedin.com/in/ignacio-arsuaga-garcia-colavidas",
-    "location": "Mesa, AZ (Phoenix area)"
+    "email": "ignacioarsuaga2022@gmail.com",
+    "phone": "9452472262",
+    "linkedin": "https://www.linkedin.com/in/ignacio-arsuaga-garcia-colavidas/",
+    "startAvailability": "Target start availability: late August to early September 2026, subject to USCIS approval and EAD issuance",
+    "copygenPayingClients": "10–12"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "DeepAware AI (Robotics Center of Silicon Valley)",
+    "slug": "deepaware-ai-robotics-center-of-silicon-valley",
+    "accentColor": "#0066cc"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Business Development Associate",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for DeepAware AI (Robotics Center of Silicon Valley)",
+    "headline": "I am driven to power the future of AI innovation.",
+    "subheadline": "DeepAware AI's commitment to groundbreaking physical AI captivates me. Joining now, I can contribute to transformative advancements in robotics, leveraging my BDR and digital marketing expertise."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
+      "emoji": "🤖",
+      "title": "Pioneering full stack AI",
+      "body": "DeepAware AI is revolutionizing AI from hardware to deployment, presenting a unique market edge. Their comprehensive approach aligns with my interest in end-to-end tech solutions."
     },
     {
       "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "title": "Growth stage energy",
+      "body": "At this stage, DeepAware AI is poised for rapid growth and innovation. It's an opportune moment to assist in scaling groundbreaking tech, offering immense learning opportunities."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "⚽",
+      "title": "BDR meets AI challenges",
+      "body": "My BDR experience at Copygen.ai, where I successfully acquired clients, equips me for business development at DeepAware AI. Understanding digital strategy will help propel AI embedding in physical frameworks."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "I am eager to dive into DeepAware's cutting-edge AI initiatives and help drive growth forward."
 }

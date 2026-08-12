@@ -1,38 +1,39 @@
 {
   "candidate": {
     "name": "Ignacio Arsuaga",
-    "email": "nacho@arsuaga.net",
-    "phone": "+19452472262",
-    "linkedin": "https://linkedin.com/in/ignacio-arsuaga-garcia-colavidas",
-    "location": "Mesa, AZ (Phoenix area)"
+    "email": "ignacioarsuaga2022@gmail.com",
+    "phone": "9452472262",
+    "linkedin": "https://www.linkedin.com/in/ignacio-arsuaga-garcia-colavidas/",
+    "startAvailability": "Physical EAD card not yet received; start date is subject to receipt of the card and standard employer onboarding.",
+    "copygenPayingClients": "10–12"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Fleetio",
+    "slug": "fleetio",
+    "accentColor": "#0066cc"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Outbound Sales Development Representative",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Fleetio",
+    "headline": "I am thrilled to launch my career with Fleetio!",
+    "subheadline": "Fleetio's innovative solutions empower businesses, and I want to drive that momentum. I'm eager to leverage my sales expertise in this dynamic environment and contribute to the team's success."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
-    },
-    {
-      "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "emoji": "🚗",
+      "title": "Fleet management innovation leader",
+      "body": "Fleetio stands out with its cutting-edge software solutions in fleet management, revolutionizing how businesses optimize their operations."
     },
     {
       "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "title": "Growth phase with impactful goals",
+      "body": "Joining Fleetio during its expansion phase is exciting as the company sets new standards in the industry and enhances its market presence."
+    },
+    {
+      "emoji": "📈",
+      "title": "Sales acumen from BDR experience",
+      "body": "My role as a BDR at Copygen.ai aligns perfectly with the responsibilities at Fleetio, having honed skills in outreach and client acquisition."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "I am excited about the potential to accelerate my career at Fleetio, making a tangible impact in the fleet management industry."
 }

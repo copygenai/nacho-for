@@ -73,7 +73,7 @@ export default function Page() {
         </div>
         <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
           {[
-            { label: 'Work authorization', value: 'OPT EAD pending under USCIS premium processing. No employer sponsorship required. Target start availability: late August to early September 2026, subject to USCIS approval and EAD issuance.', sub: '' },
+            { label: 'Work authorization', value: 'USCIS approved post-completion F-1 OPT through July 15, 2027. No employer sponsorship required during OPT.', sub: '' },
             { label: 'BDR · Copygen.ai', value: '1 year cold outreach', sub: '10–12 paying clients sourced from scratch. HubSpot, cold email, LinkedIn sequences.' },
             { label: 'Internship · NextAfter', value: 'Digital fundraising research', sub: 'B2B consultancy in Plano, TX. Learned to connect data to decisions fast.' },
             { label: 'Athletics', value: 'NCAA D2 Soccer', sub: 'Benedictine University Mesa. Discipline, accountability, competing every week.' },
@@ -111,7 +111,7 @@ export default function Page() {
       <div style={{ padding: '80px 40px', textAlign: 'center' }}>
         <h2 style={{ fontSize: 32, fontWeight: 800, letterSpacing: '-1px', marginBottom: 16 }}>Ready to talk?</h2>
         <p style={{ fontSize: 16, color: '#666', marginBottom: 32 }}>
-          Target start availability: late August to early September 2026, subject to USCIS approval and EAD issuance. Let&rsquo;s get on a call this week.
+          Physical EAD card received. Available to start work immediately, subject to standard employer onboarding and I-9 completion. Let&rsquo;s get on a call this week.
         </p>
         <div style={{ display: 'flex', gap: 12, justifyContent: 'center', flexWrap: 'wrap' }}>
           <a href={`mailto:${candidate.email}`}

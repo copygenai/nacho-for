@@ -1,38 +1,39 @@
 {
   "candidate": {
     "name": "Ignacio Arsuaga",
-    "email": "nacho@arsuaga.net",
-    "phone": "+19452472262",
-    "linkedin": "https://linkedin.com/in/ignacio-arsuaga-garcia-colavidas",
-    "location": "Mesa, AZ (Phoenix area)"
+    "email": "ignacioarsuaga2022@gmail.com",
+    "phone": "9452472262",
+    "linkedin": "https://www.linkedin.com/in/ignacio-arsuaga-garcia-colavidas/",
+    "startAvailability": "Physical EAD card received. Available to start work immediately, subject to standard employer onboarding and I-9 completion.",
+    "copygenPayingClients": "10–12"
   },
   "company": {
-    "name": "Dex",
-    "slug": "dex",
-    "accentColor": "#4F46E5"
+    "name": "Artos",
+    "slug": "artos",
+    "accentColor": "#0066cc"
   },
-  "role": "Founding Growth and Marketing Lead",
+  "role": "Founding Account Executive",
   "hero": {
-    "label": "Made for Dex",
-    "headline": "I want to build Dex into the relationship operating system everyone uses.",
-    "subheadline": "Dex solves a problem I see everywhere: people losing touch with their networks because there's no system for it. Kevin built something thousands of people pay for, and now it's the moment to scale. I've spent the last year proving I can acquire customers and drive growth, and I'm ready to do it for a product I genuinely believe in."
+    "label": "Made for Artos",
+    "headline": "Eager to Drive Growth as Artos' Founding Account Executive.",
+    "subheadline": "I'm captivated by Artos' innovative approach in an exciting market. This role is the perfect stage to leverage my skills in driving impactful client growth. I'm keen to contribute to Artos' ambitious vision."
   },
   "whyCompany": [
     {
-      "emoji": "🤝",
-      "title": "Dex solves a real, universal problem with proven product-market fit",
-      "body": "Kevin didn't build Dex to chase a trend. He built it because he was losing touch with people he cared about. After 5 years, thousands of paying customers prove this isn't a niche want. That kind of organic, problem-first origin is exactly what makes a company worth joining early."
-    },
-    {
       "emoji": "🚀",
-      "title": "This is the moment before the inflection point",
-      "body": "Dex has product-market fit and a small, focused team of 7. The hiring of a Founding Growth Lead signals Kevin is ready to scale. Being employee 8 in a YC S19 company at the growth inflection point is the rarest opportunity."
+      "title": "Innovative market opportunities",
+      "body": "Artos is tackling a transformative niche, which presents a thrilling challenge. I'm excited about contributing my skills to an innovator's journey."
     },
     {
-      "emoji": "💼",
-      "title": "My BDR and marketing experience maps directly onto this role",
-      "body": "I spent 14 months at Copygen.ai doing cold outreach, building LinkedIn sequences, and acquiring 15-20 paying customers. Then I moved into B2B growth at NextAfter in the fundraising space. I know how to find users, talk to them, and convert them. Dex needs exactly that right now."
+      "emoji": "🌟",
+      "title": "Embarking at a pivotal growth stage",
+      "body": "Joining at such an early stage means directly shaping Artos' future. The role offers a unique chance to make history with the team."
+    },
+    {
+      "emoji": "🤝",
+      "title": "Aligns with my BDR experience",
+      "body": "My experience at Copygen.ai refined my client acquisition skills. At Artos, I see a clear path to apply my past success to accelerate growth as a Founding Account Executive."
     }
   ],
-  "quote": "I've spent a year learning how to acquire customers. Now I want to do it for something I actually use and believe in."
+  "quote": "Artos excites me because I see a chance to create tangible impact in a startup's journey as a founding member. I'm ready to bring passion and drive to this innovative team."
 }
